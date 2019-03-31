@@ -2,7 +2,7 @@
 Mobile App of TapTrack 
 
 ## Motivation
-Learning Reat Native, and having a codebase for web, android, and IOS app all together. 
+Learning React Native, and having a codebase for web, android, and IOS app all together. 
 
 ## Build status
 Workings towards a MVP
